@@ -1,0 +1,20 @@
+{
+  "name": "mini-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linchinghao/mini-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linchinghao/mini-core/issues"
+  },
+  "homepage": "https://github.com/linchinghao/mini-core#readme"
+}
